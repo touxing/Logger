@@ -1,5 +1,4 @@
 import { ILogger, LogLevel } from './ILogger'
-import localforage from 'localforage'
 import { IndexedDBClient } from './dbClient'
 import { dbConfig } from './config'
 
